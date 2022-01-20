@@ -1,4 +1,130 @@
 {
-    "rangeSeeds": [],
+    "rangeSeeds": [
+        {
+            "file": "front/src/app/components/signup/signup.component.html",
+            "seeds": [
+                {
+                    "id": "92752c5d-74cb-4e03-9438-43ba1a172840",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2da1d9f3-679b-4006-8a9f-5e40945e3816",
+                    "startLine": 51,
+                    "startColumn": 12,
+                    "endLine": 51,
+                    "endColumn": 59,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "c5273936-ed76-4efe-94ab-9102ca69a104",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2a3b99a3-dbb9-490d-8230-dbe79405a55d",
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "endLine": 52,
+                    "endColumn": 55,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "955c53c5-c3b2-46be-8e22-55e8d9562f49",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2da1d9f3-679b-4006-8a9f-5e40945e3816",
+                    "startLine": 57,
+                    "startColumn": 10,
+                    "endLine": 71,
+                    "endColumn": 16,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "95789fe4-2108-4592-bbf0-36bdd2eca5c2",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2a3b99a3-dbb9-490d-8230-dbe79405a55d",
+                    "startLine": 75,
+                    "startColumn": 10,
+                    "endLine": 83,
+                    "endColumn": 16,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "front/src/app/components/articles/articles.component.html",
+            "seeds": [
+                {
+                    "id": "e0605566-15ad-4b41-a402-b5ae4a8831d6",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "45750f19-7e99-4cfd-a998-51ef5b65d230",
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "endLine": 3,
+                    "endColumn": 143,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "9d2c14bc-9759-4e8a-bba3-513cd66609e0",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 4,
+                    "startColumn": 0,
+                    "endLine": 4,
+                    "endColumn": 144,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "32cd2334-fc90-4d84-9ac4-4292db229962",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "endLine": 7,
+                    "endColumn": 144,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "f95c9e69-f7e8-4347-840d-420fcb88f58d",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "endLine": 8,
+                    "endColumn": 150,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "front/src/app/components/signup/signup.component.ts",
+            "seeds": [
+                {
+                    "id": "7caf5852-f545-4e80-9dfc-b9803b912dc7",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2da1d9f3-679b-4006-8a9f-5e40945e3816",
+                    "startLine": 94,
+                    "startColumn": 8,
+                    "endLine": 98,
+                    "endColumn": 10,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "77243445-4fd8-4db0-822f-0824d49724ce",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2a3b99a3-dbb9-490d-8230-dbe79405a55d",
+                    "startLine": 99,
+                    "startColumn": 8,
+                    "endLine": 102,
+                    "endColumn": 10,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        }
+    ],
     "fileSeeds": []
 }

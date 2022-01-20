@@ -1,4 +1,48 @@
 {
-    "rangeSeeds": [],
+    "rangeSeeds": [
+        {
+            "file": "front/src/app/components/app.component.html",
+            "seeds": [
+                {
+                    "id": "44be4751-55e3-4b02-8e92-611409485676",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "9581c3aa-a05c-4915-bbae-08da629af722",
+                    "startLine": 2,
+                    "startColumn": 46,
+                    "endLine": 2,
+                    "endColumn": 63,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "b2001beb-791b-4476-8800-ac97c895115f",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "8301aabc-61f3-49a8-87d3-2fb78e788af8",
+                    "startLine": 46,
+                    "startColumn": 6,
+                    "endLine": 56,
+                    "endColumn": 124,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "front/src/styles.scss",
+            "seeds": [
+                {
+                    "id": "d443930a-98f1-4760-a2de-68b5480b71c2",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "308b0a6d-b69d-4b05-a4d3-57158ed21bed",
+                    "startLine": 56,
+                    "startColumn": 14,
+                    "endLine": 56,
+                    "endColumn": 21,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        }
+    ],
     "fileSeeds": []
 }

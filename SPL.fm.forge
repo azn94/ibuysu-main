@@ -12,11 +12,172 @@
         "help": "",
         "nodeWeight": -1
     },
-    "functionalities": [],
-    "fileResources": [],
-    "textResources": [],
+    "functionalities": [
+        {
+            "key": "94c1832e-27fc-415a-9461-2a833b876c79",
+            "name": "AccountS",
+            "type": "Functionality feature",
+            "parent": "774691f1-edc0-4b8c-b5ba-9ac05edce3ea",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#beede2",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "2da1d9f3-679b-4006-8a9f-5e40945e3816",
+            "name": "CB",
+            "type": "Functionality feature",
+            "parent": "94c1832e-27fc-415a-9461-2a833b876c79",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#ed37d5",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "2a3b99a3-dbb9-490d-8230-dbe79405a55d",
+            "name": "RIB",
+            "type": "Functionality feature",
+            "parent": "94c1832e-27fc-415a-9461-2a833b876c79",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#d2cde2",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "6d8fc825-bcfc-4673-96cd-6b49c2f4eef5",
+            "name": "Sale",
+            "type": "Functionality feature",
+            "parent": "774691f1-edc0-4b8c-b5ba-9ac05edce3ea",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#9dc9c2",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "45750f19-7e99-4cfd-a998-51ef5b65d230",
+            "name": "Direct",
+            "type": "Functionality feature",
+            "parent": "6d8fc825-bcfc-4673-96cd-6b49c2f4eef5",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#c3ef6d",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+            "name": "Auctions",
+            "type": "Functionality feature",
+            "parent": "6d8fc825-bcfc-4673-96cd-6b49c2f4eef5",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#367a0e",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "5d68eac5-b987-4bf3-98b5-2cc1553a952e",
+            "name": "Article",
+            "type": "Functionality feature",
+            "parent": "774691f1-edc0-4b8c-b5ba-9ac05edce3ea",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#6f02fb",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+            "name": "Categorie",
+            "type": "Functionality feature",
+            "parent": "5d68eac5-b987-4bf3-98b5-2cc1553a952e",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#494ee4",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "2e36025a-0777-4a4c-a501-10cc7552e180",
+            "name": "MotClé",
+            "type": "Functionality feature",
+            "parent": "5d68eac5-b987-4bf3-98b5-2cc1553a952e",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#27d009",
+            "help": "",
+            "nodeWeight": -1
+        }
+    ],
+    "fileResources": [
+        {
+            "key": "9581c3aa-a05c-4915-bbae-08da629af722",
+            "name": "Icon",
+            "type": "Resource feature",
+            "parent": "774691f1-edc0-4b8c-b5ba-9ac05edce3ea",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#2af07a",
+            "help": "",
+            "nodeWeight": -1,
+            "filePath": "front/src/assets"
+        }
+    ],
+    "textResources": [
+        {
+            "key": "8301aabc-61f3-49a8-87d3-2fb78e788af8",
+            "name": "Description",
+            "type": "Resource feature",
+            "parent": "774691f1-edc0-4b8c-b5ba-9ac05edce3ea",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#454b9e",
+            "help": "",
+            "nodeWeight": -1
+        }
+    ],
     "smartAppAssetResources": [],
-    "colorResources": [],
+    "colorResources": [
+        {
+            "key": "308b0a6d-b69d-4b05-a4d3-57158ed21bed",
+            "name": "Style",
+            "type": "Resource feature",
+            "parent": "774691f1-edc0-4b8c-b5ba-9ac05edce3ea",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#9271c9",
+            "help": "",
+            "nodeWeight": -1
+        }
+    ],
     "referencedModels": [],
     "constraints": []
 }
