@@ -140,6 +140,28 @@
             "file": "back/src/main/java/com/gl/ibuysu/controllers/ArticleController.java",
             "seeds": [
                 {
+                    "id": "19233ab1-b89e-4b6f-82a9-a9232abf2365",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 25,
+                    "startColumn": 0,
+                    "endLine": 26,
+                    "endColumn": 64,
+                    "type": "Deletion",
+                    "isValidated": false
+                },
+                {
+                    "id": "4b5aeac6-d3a7-4c4d-bac7-6a3e999a71ae",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
+                    "startLine": 28,
+                    "startColumn": 0,
+                    "endLine": 29,
+                    "endColumn": 62,
+                    "type": "Deletion",
+                    "isValidated": false
+                },
+                {
                     "id": "d1317cbf-8de1-429b-b480-4542ec0be90f",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
@@ -147,6 +169,17 @@
                     "startColumn": 0,
                     "endLine": 29,
                     "endColumn": 62,
+                    "type": "Deletion",
+                    "isValidated": false
+                },
+                {
+                    "id": "5f48dacb-1627-4039-8307-952bf6711b96",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 40,
+                    "startColumn": 0,
+                    "endLine": 43,
+                    "endColumn": 9,
                     "type": "Deletion",
                     "isValidated": false
                 },
@@ -162,6 +195,17 @@
                     "isValidated": false
                 },
                 {
+                    "id": "9598544b-3414-450c-872c-1695c050caf7",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 63,
+                    "startColumn": 0,
+                    "endLine": 66,
+                    "endColumn": 9,
+                    "type": "Deletion",
+                    "isValidated": false
+                },
+                {
                     "id": "1e561294-b9eb-4948-8d4f-b7980da4c907",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
@@ -169,6 +213,17 @@
                     "startColumn": 0,
                     "endLine": 70,
                     "endColumn": 9,
+                    "type": "Deletion",
+                    "isValidated": false
+                },
+                {
+                    "id": "fadf84bb-2b15-4a6e-a530-e2be31b30c53",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 94,
+                    "startColumn": 0,
+                    "endLine": 97,
+                    "endColumn": 5,
                     "type": "Deletion",
                     "isValidated": false
                 },
@@ -189,6 +244,17 @@
             "file": "back/src/main/java/com/gl/ibuysu/models/Article.java",
             "seeds": [
                 {
+                    "id": "22a13599-aab6-438f-a94f-3b9c4bd97561",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 33,
+                    "startColumn": 0,
+                    "endLine": 40,
+                    "endColumn": 66,
+                    "type": "Deletion",
+                    "isValidated": false
+                },
+                {
                     "id": "93894ec5-7089-4fba-bebd-b1ef6805a698",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
@@ -196,6 +262,17 @@
                     "startColumn": 0,
                     "endLine": 49,
                     "endColumn": 63,
+                    "type": "Deletion",
+                    "isValidated": false
+                },
+                {
+                    "id": "810a34ed-d1dd-4407-8900-8cf3c0125b7e",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 124,
+                    "startColumn": 0,
+                    "endLine": 130,
+                    "endColumn": 1,
                     "type": "Deletion",
                     "isValidated": false
                 },
@@ -259,6 +336,38 @@
                     "isValidated": false
                 }
             ]
+        },
+        {
+            "file": "back/src/main/java/com/gl/ibuysu/models/ArticleCategory.java",
+            "seeds": [
+                {
+                    "id": "3e4be6c9-3f2a-4ca4-99a2-9ae9b03ba9d7",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 46,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "back/src/main/java/com/gl/ibuysu/repositories/ArticleCategoryRepository.java",
+            "seeds": [
+                {
+                    "id": "95e49e59-8c8a-4b15-b52c-0e8bfdacf142",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 9,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
         }
     ],
     "fileSeeds": [
@@ -274,6 +383,22 @@
             "id": "f132ee99-d17d-437d-bb08-c61ed8e642e6",
             "file": "back/src/main/java/com/gl/ibuysu/repositories/ArticleKeywordRepository.java",
             "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "contentAnalysis": true
+        },
+        {
+            "id": "a640db70-1b10-49ca-ae36-4083a32dbc1f",
+            "file": "back/src/main/java/com/gl/ibuysu/models/ArticleCategory.java",
+            "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "contentAnalysis": true
+        },
+        {
+            "id": "9c452ace-840a-4d34-be2b-00160ea1a548",
+            "file": "back/src/main/java/com/gl/ibuysu/repositories/ArticleCategoryRepository.java",
+            "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
             "analyzer": "File system analyzer",
             "isValidated": true,
             "contentAnalysis": true
