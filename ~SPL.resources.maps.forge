@@ -31,13 +31,24 @@
             "file": "front/src/styles.scss",
             "seeds": [
                 {
-                    "id": "d443930a-98f1-4760-a2de-68b5480b71c2",
+                    "id": "77eace2b-2e0f-43b6-880f-15c5b04e7e11",
                     "analyzer": "Resource Analyzer",
                     "featureKey": "308b0a6d-b69d-4b05-a4d3-57158ed21bed",
-                    "startLine": 56,
-                    "startColumn": 14,
-                    "endLine": 56,
-                    "endColumn": 21,
+                    "startLine": 99,
+                    "startColumn": 19,
+                    "endLine": 99,
+                    "endColumn": 26,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "124b6ff9-19ec-436b-8f3b-99ea2f570c86",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "308b0a6d-b69d-4b05-a4d3-57158ed21bed",
+                    "startLine": 100,
+                    "startColumn": 15,
+                    "endLine": 100,
+                    "endColumn": 22,
                     "type": "Deletion",
                     "isValidated": true
                 }

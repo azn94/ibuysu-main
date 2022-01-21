@@ -53,6 +53,17 @@
             "file": "front/src/app/components/articles/articles.component.html",
             "seeds": [
                 {
+                    "id": "6f56db6d-f648-4867-bf36-918834ddb654",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "0258dd3d-16cb-4726-a91b-c3a0af5a1b04",
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "endLine": 2,
+                    "endColumn": 134,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "e0605566-15ad-4b41-a402-b5ae4a8831d6",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "45750f19-7e99-4cfd-a998-51ef5b65d230",

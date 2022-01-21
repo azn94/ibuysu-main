@@ -1,8 +1,8 @@
 <div class="container mt-5 d-flex align-items-center justify-content-between">
   <div>
     <button class="btn-sm btn-outline-primary me-2" [class]="{'active': display == 'all'}" (click)="displayAllArticles()">All</button>
-    <button class="btn-sm btn-outline-primary me-2" [class]="{'active': display == 'direct'}" (click)="displayDirectArticles()">Direct</button>
-    <button class="btn-sm btn-outline-primary" [class]="{'active': display == 'auctions'}" (click)="displayAuctionsArticles()">Auctions</button>
+    <button class="btn-sm btn-outline-primary me-2 " [class]="{'active': display == 'direct'}" (click)="displayDirectArticles()">Direct</button>
+    <button class="btn-sm btn-outline-primary " [class]="{'active': display == 'auctions'}" (click)="displayAuctionsArticles()">Auctions</button>
   </div>
   <div *ngIf="withSearch" class="d-flex align-items-center">
     <button class="btn-sm btn-outline-primary me-2" [ngClass]="{'active': search == 'keywords'}" (click)="search = 'keywords'">Keywords</button>
