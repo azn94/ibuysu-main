@@ -94,3 +94,10 @@
   justify-content: space-between;
   border-top: .5px solid #dee2e6;
 }
+
+.btn-check:active + .btn-outline-primary, .btn-check:checked + .btn-outline-primary, .btn-outline-primary.active, .btn-outline-primary.dropdown-toggle.show, .btn-outline-primary:active{
+  color: #fff;
+  background-color:#3919ae;
+  border-color:#3919ae;
+
+}

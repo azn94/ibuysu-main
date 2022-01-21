@@ -97,10 +97,10 @@ export class SignupComponent implements OnInit, OnDestroy {
           expiryDate: sellerFormValue.expiryDate,
           securityCode: sellerFormValue.securityCode
         },
-        bankCode: {
-          bic: sellerFormValue.bic,
-          iban: sellerFormValue.iban,
-        },
+        
+
+
+
         phone: sellerFormValue.phone,
         email: sellerFormValue.email,
         password: sellerFormValue.password
@@ -155,3 +155,4 @@ export class SignupComponent implements OnInit, OnDestroy {
   }
 
 }
+
