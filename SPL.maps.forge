@@ -202,6 +202,316 @@
                     ]
                 }
             ]
+        },
+        {
+            "file": "back/src/main/java/com/gl/ibuysu/controllers/ArticleController.java",
+            "propagations": [
+                {
+                    "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
+                    "ranges": [
+                        {
+                            "propagationId": "045092d4-f78d-4c45-a3ce-578a67fb7c8c",
+                            "sourceId": "045092d4-f78d-4c45-a3ce-578a67fb7c8c",
+                            "startLine": 29,
+                            "startColumn": 0,
+                            "endLine": 29,
+                            "endColumn": 62,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "520d8563-7f7e-4e55-9bc3-e54fc3c4a516",
+                            "sourceId": "520d8563-7f7e-4e55-9bc3-e54fc3c4a516",
+                            "startLine": 44,
+                            "startColumn": 0,
+                            "endLine": 47,
+                            "endColumn": 9,
+                            "isValidated": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "1e561294-b9eb-4948-8d4f-b7980da4c907",
+                            "sourceId": "1e561294-b9eb-4948-8d4f-b7980da4c907",
+                            "startLine": 67,
+                            "startColumn": 0,
+                            "endLine": 70,
+                            "endColumn": 9,
+                            "isValidated": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "adb926d8-2451-4034-aed3-45322e1c6ae7",
+                            "sourceId": "adb926d8-2451-4034-aed3-45322e1c6ae7",
+                            "startLine": 99,
+                            "startColumn": 0,
+                            "endLine": 102,
+                            "endColumn": 5,
+                            "isValidated": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "3c59b979-94ee-461f-8700-3c1293438ef6",
+                            "sourceId": "a3a274a9-1c21-44f6-9dfe-642104a4a143",
+                            "startLine": 44,
+                            "startColumn": 13,
+                            "endLine": 44,
+                            "endColumn": 27,
+                            "isValidated": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "94f1ebc6-51f3-46ad-87f0-02e38c734c39",
+                            "sourceId": "a3a274a9-1c21-44f6-9dfe-642104a4a143",
+                            "startLine": 67,
+                            "startColumn": 13,
+                            "endLine": 67,
+                            "endColumn": 27,
+                            "isValidated": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "73ecc7e9-9250-4592-9ca9-10342393e0f2",
+                            "sourceId": "cc202078-1960-4880-8803-e0b8108ad14c",
+                            "startLine": 8,
+                            "startColumn": 7,
+                            "endLine": 8,
+                            "endColumn": 58,
+                            "isValidated": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "f9c9b4e6-2950-4764-aac8-66d6fa7b34df",
+                            "sourceId": "cc202078-1960-4880-8803-e0b8108ad14c",
+                            "startLine": 29,
+                            "startColumn": 12,
+                            "endLine": 29,
+                            "endColumn": 36,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "back/src/main/java/com/gl/ibuysu/models/Article.java",
+            "propagations": [
+                {
+                    "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
+                    "ranges": [
+                        {
+                            "propagationId": "93894ec5-7089-4fba-bebd-b1ef6805a698",
+                            "sourceId": "93894ec5-7089-4fba-bebd-b1ef6805a698",
+                            "startLine": 42,
+                            "startColumn": 0,
+                            "endLine": 49,
+                            "endColumn": 63,
+                            "isValidated": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "06f5388d-4028-4d91-8398-7661c1944e48",
+                            "sourceId": "93894ec5-7089-4fba-bebd-b1ef6805a698",
+                            "startLine": 133,
+                            "startColumn": 15,
+                            "endLine": 133,
+                            "endColumn": 23,
+                            "isValidated": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "3f338a3d-ed58-4df3-8f1d-dc1f8a104e93",
+                            "sourceId": "93894ec5-7089-4fba-bebd-b1ef6805a698",
+                            "startLine": 137,
+                            "startColumn": 13,
+                            "endLine": 137,
+                            "endColumn": 21,
+                            "isValidated": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "bb24c405-1285-4f12-993e-f94b3a7f21c7",
+                            "sourceId": "bb24c405-1285-4f12-993e-f94b3a7f21c7",
+                            "startLine": 132,
+                            "startColumn": 0,
+                            "endLine": 138,
+                            "endColumn": 1,
+                            "isValidated": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "b319e608-f82a-47cd-a9dc-c1618723c1ea",
+                            "sourceId": "a3a274a9-1c21-44f6-9dfe-642104a4a143",
+                            "startLine": 49,
+                            "startColumn": 17,
+                            "endLine": 49,
+                            "endColumn": 31,
+                            "isValidated": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "f7b68822-f7b2-40d4-9224-164aa0c303e8",
+                            "sourceId": "a3a274a9-1c21-44f6-9dfe-642104a4a143",
+                            "startLine": 132,
+                            "startColumn": 12,
+                            "endLine": 132,
+                            "endColumn": 26,
+                            "isValidated": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "ec46cac3-3f42-4e05-88aa-ee6e8e61a2e3",
+                            "sourceId": "a3a274a9-1c21-44f6-9dfe-642104a4a143",
+                            "startLine": 136,
+                            "startColumn": 29,
+                            "endLine": 136,
+                            "endColumn": 43,
+                            "isValidated": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "back/src/main/java/com/gl/ibuysu/models/ArticleKeyword.java",
+            "propagations": [
+                {
+                    "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
+                    "ranges": [
+                        {
+                            "propagationId": "a3a274a9-1c21-44f6-9dfe-642104a4a143",
+                            "sourceId": "a3a274a9-1c21-44f6-9dfe-642104a4a143",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 46,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "back/src/main/java/com/gl/ibuysu/repositories/ArticleKeywordRepository.java",
+            "propagations": [
+                {
+                    "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
+                    "ranges": [
+                        {
+                            "propagationId": "aa21e5a5-0d43-4a2b-beab-b9636a7bbe41",
+                            "sourceId": "a3a274a9-1c21-44f6-9dfe-642104a4a143",
+                            "startLine": 2,
+                            "startColumn": 7,
+                            "endLine": 2,
+                            "endColumn": 42,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "df873f5f-e0dc-4204-aba2-28a64174d36e",
+                            "sourceId": "a3a274a9-1c21-44f6-9dfe-642104a4a143",
+                            "startLine": 7,
+                            "startColumn": 64,
+                            "endLine": 7,
+                            "endColumn": 78,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "cc202078-1960-4880-8803-e0b8108ad14c",
+                            "sourceId": "cc202078-1960-4880-8803-e0b8108ad14c",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 9,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "back/src/main/java/com/gl/ibuysu/repositories/ArticleRepository.java",
+            "propagations": [
+                {
+                    "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
+                    "ranges": [
+                        {
+                            "propagationId": "3c4a1170-601b-42d5-aa0a-1bd637391bf9",
+                            "sourceId": "3c4a1170-601b-42d5-aa0a-1bd637391bf9",
+                            "startLine": 12,
+                            "startColumn": 0,
+                            "endLine": 13,
+                            "endColumn": 52,
+                            "isValidated": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "replacementPropagations": [],
@@ -248,5 +558,26 @@
             ]
         }
     ],
-    "pathPropagations": []
+    "pathPropagations": [
+        {
+            "propagationId": "92209125-cd48-413d-b67f-e3e084b09f32",
+            "sourceId": "92209125-cd48-413d-b67f-e3e084b09f32",
+            "propagatedPath": "back/src/main/java/com/gl/ibuysu/models/ArticleKeyword.java",
+            "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
+            "isValidated": true,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true,
+            "contentAnalysis": true
+        },
+        {
+            "propagationId": "f132ee99-d17d-437d-bb08-c61ed8e642e6",
+            "sourceId": "f132ee99-d17d-437d-bb08-c61ed8e642e6",
+            "propagatedPath": "back/src/main/java/com/gl/ibuysu/repositories/ArticleKeywordRepository.java",
+            "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
+            "isValidated": true,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true,
+            "contentAnalysis": true
+        }
+    ]
 }

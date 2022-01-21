@@ -19,4 +19,28 @@ public class Auction {
     @ManyToOne
     private ArticleAuction articleAuction;
 
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public Purchaser getPurchaser() {
+        return purchaser;
+    }
+
+    public void setPurchaser(Purchaser purchaser) {
+        this.purchaser = purchaser;
+    }
+
+    public ArticleAuction getArticleAuction() {
+        return articleAuction;
+    }
+
+    public void setArticleAuction(ArticleAuction articleAuction) {
+        this.articleAuction = articleAuction;
+    }
+
 }
