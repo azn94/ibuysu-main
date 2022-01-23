@@ -925,6 +925,42 @@
                     ]
                 }
             ]
+        },
+        {
+            "file": "front/src/styles.scss",
+            "propagations": [
+                {
+                    "featureKey": "308b0a6d-b69d-4b05-a4d3-57158ed21bed",
+                    "ranges": [
+                        {
+                            "propagationId": "77eace2b-2e0f-43b6-880f-15c5b04e7e11",
+                            "sourceId": "77eace2b-2e0f-43b6-880f-15c5b04e7e11",
+                            "startLine": 99,
+                            "startColumn": 19,
+                            "endLine": 99,
+                            "endColumn": 26,
+                            "isValidated": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "124b6ff9-19ec-436b-8f3b-99ea2f570c86",
+                            "sourceId": "124b6ff9-19ec-436b-8f3b-99ea2f570c86",
+                            "startLine": 100,
+                            "startColumn": 15,
+                            "endLine": 100,
+                            "endColumn": 22,
+                            "isValidated": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "pathPropagations": [
