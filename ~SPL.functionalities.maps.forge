@@ -108,6 +108,17 @@
                     "isValidated": true
                 },
                 {
+                    "id": "2ad1915b-f274-481b-b9c6-11475e43bbe1",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 30,
+                    "startColumn": 0,
+                    "endLine": 35,
+                    "endColumn": 13,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "bfaad45b-339c-431b-8638-f281341e836d",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
@@ -151,6 +162,17 @@
             "file": "back/src/main/java/com/gl/ibuysu/controllers/ArticleController.java",
             "seeds": [
                 {
+                    "id": "9d8b2b1e-c5b6-474b-b4f1-4eaf7d84ec0f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 7,
+                    "startColumn": 0,
+                    "endLine": 7,
+                    "endColumn": 60,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "592d8388-5c13-4505-ab6f-d7dcf8dc228c",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
@@ -158,6 +180,17 @@
                     "startColumn": 0,
                     "endLine": 8,
                     "endColumn": 59,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "75aa6d39-b0cb-4533-9c69-4cf35ef16eff",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 25,
+                    "startColumn": 0,
+                    "endLine": 26,
+                    "endColumn": 64,
                     "type": "Deletion",
                     "isValidated": true
                 },
@@ -173,12 +206,34 @@
                     "isValidated": true
                 },
                 {
+                    "id": "61f89b46-cd5a-4aca-afb3-c845d61b5f0c",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 40,
+                    "startColumn": 0,
+                    "endLine": 43,
+                    "endColumn": 9,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "c790ab2e-28c6-4124-bb58-fcdb71cb6c71",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
                     "startLine": 44,
                     "startColumn": 0,
                     "endLine": 47,
+                    "endColumn": 9,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "63bebfb7-2dd3-4a3e-b9b5-7630138069c1",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 63,
+                    "startColumn": 0,
+                    "endLine": 66,
                     "endColumn": 9,
                     "type": "Deletion",
                     "isValidated": true
@@ -191,6 +246,17 @@
                     "startColumn": 0,
                     "endLine": 70,
                     "endColumn": 9,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "bfe3d0b1-72ce-477a-b9b8-9ddeffe83a03",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 94,
+                    "startColumn": 0,
+                    "endLine": 97,
+                    "endColumn": 5,
                     "type": "Deletion",
                     "isValidated": true
                 },
@@ -211,6 +277,17 @@
             "file": "back/src/main/java/com/gl/ibuysu/models/Article.java",
             "seeds": [
                 {
+                    "id": "bcd12e22-c28a-44e1-94f2-c6dbfa577b83",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 33,
+                    "startColumn": 0,
+                    "endLine": 40,
+                    "endColumn": 66,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "63e1eb34-b720-4a52-a9d8-2ae98466367e",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
@@ -229,6 +306,17 @@
                     "startColumn": 0,
                     "endLine": 49,
                     "endColumn": 63,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "39cffe39-6d0e-43fd-bbd7-449da1ec7449",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 124,
+                    "startColumn": 0,
+                    "endLine": 130,
+                    "endColumn": 1,
                     "type": "Deletion",
                     "isValidated": true
                 },
@@ -281,6 +369,17 @@
             "file": "back/src/main/java/com/gl/ibuysu/repositories/ArticleRepository.java",
             "seeds": [
                 {
+                    "id": "95925ca1-5701-4f1a-979b-ad615fca4d7d",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 9,
+                    "startColumn": 0,
+                    "endLine": 10,
+                    "endColumn": 54,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "d8f02133-bf87-4fbe-ad44-e4345ca55d8d",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
@@ -295,15 +394,50 @@
         },
         {
             "file": "back/src/main/java/com/gl/ibuysu/models/ArticleCategory.java",
-            "seeds": []
+            "seeds": [
+                {
+                    "id": "1ae3b760-c492-4028-a198-3cc713dbfe63",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 46,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
         },
         {
             "file": "back/src/main/java/com/gl/ibuysu/repositories/ArticleCategoryRepository.java",
-            "seeds": []
+            "seeds": [
+                {
+                    "id": "c036c36e-afc6-435e-8b52-ffcb11842b22",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 9,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
         },
         {
             "file": "front/src/app/components/add-article/add-article.component.html",
             "seeds": [
+                {
+                    "id": "a0d7f584-410a-48d6-afb9-a2aa2981ba78",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 33,
+                    "startColumn": 0,
+                    "endLine": 36,
+                    "endColumn": 14,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
                 {
                     "id": "01b25491-fb3d-49cb-b86b-15a7b7d73f25",
                     "analyzer": "Interoperable analyzer",
@@ -321,6 +455,17 @@
             "file": "front/src/app/components/add-article/add-article.component.ts",
             "seeds": [
                 {
+                    "id": "a4e7cb14-4933-4cea-befa-66eec285a8b1",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 4,
+                    "startColumn": 0,
+                    "endLine": 4,
+                    "endColumn": 69,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "c3d010f4-5651-4d2c-ad65-8dfe6a26af6b",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
@@ -328,6 +473,17 @@
                     "startColumn": 0,
                     "endLine": 5,
                     "endColumn": 67,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "482b260f-948a-4e2e-a9aa-1856de0e4af3",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 40,
+                    "startColumn": 0,
+                    "endLine": 40,
+                    "endColumn": 38,
                     "type": "Deletion",
                     "isValidated": true
                 },
@@ -343,6 +499,17 @@
                     "isValidated": true
                 },
                 {
+                    "id": "9483e2c0-a1d4-4856-80d5-051ce2d58cd3",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 63,
+                    "startColumn": 0,
+                    "endLine": 65,
+                    "endColumn": 65,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "4ff24d39-9259-4cef-8aa6-89181f5b41c2",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
@@ -350,6 +517,17 @@
                     "startColumn": 0,
                     "endLine": 68,
                     "endColumn": 61,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "b8183a6e-ad44-414b-a0f0-6015e3df51f6",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 76,
+                    "startColumn": 0,
+                    "endLine": 76,
+                    "endColumn": 19,
                     "type": "Deletion",
                     "isValidated": true
                 },
@@ -370,6 +548,17 @@
             "file": "front/src/app/components/articles/articles.component.ts",
             "seeds": [
                 {
+                    "id": "f036406d-3cd5-4f07-bb20-7e3f4d510a2f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 101,
+                    "startColumn": 8,
+                    "endLine": 109,
+                    "endColumn": 7,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "e3fb2f34-6005-4a47-82a9-ab79402463cc",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
@@ -385,6 +574,17 @@
         {
             "file": "front/src/app/services/article/article.service.ts",
             "seeds": [
+                {
+                    "id": "78a2c7f5-df25-49ce-ab09-4fbca11d3de9",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 29,
+                    "startColumn": 0,
+                    "endLine": 31,
+                    "endColumn": 3,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
                 {
                     "id": "d377286b-1ce6-4794-bfcf-e9dcbeed0c99",
                     "analyzer": "Interoperable analyzer",
@@ -418,6 +618,17 @@
             "file": "front/src/app/types/articleAuction.type.ts",
             "seeds": [
                 {
+                    "id": "031acca8-b621-400e-a044-cdea0b5f7224",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 3,
+                    "startColumn": 0,
+                    "endLine": 3,
+                    "endColumn": 59,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "5bc3938a-baf9-4fa5-a20c-a27ef66ad51c",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
@@ -425,6 +636,17 @@
                     "startColumn": 0,
                     "endLine": 4,
                     "endColumn": 57,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "98f61eed-b1e5-4ec1-a754-9b383e946f0f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 13,
+                    "startColumn": 0,
+                    "endLine": 13,
+                    "endColumn": 36,
                     "type": "Deletion",
                     "isValidated": true
                 },
@@ -445,6 +667,17 @@
             "file": "front/src/app/types/article.type.ts",
             "seeds": [
                 {
+                    "id": "5478066f-50cc-410f-a15a-b57dd03b9957",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 0,
+                    "endColumn": 59,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "8cb91fab-d921-4be7-bbae-87114a3afbfb",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
@@ -456,6 +689,17 @@
                     "isValidated": true
                 },
                 {
+                    "id": "dcf6ea1d-d791-492b-b2c3-24573235bd61",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 11,
+                    "startColumn": 0,
+                    "endLine": 11,
+                    "endColumn": 36,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "91aca554-ece8-413b-82de-a328fa49639f",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
@@ -463,6 +707,22 @@
                     "startColumn": 0,
                     "endLine": 12,
                     "endColumn": 33,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "front/src/app/types/articleCategory.type.ts",
+            "seeds": [
+                {
+                    "id": "05bebc66-756b-423c-b110-49511c146e4f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 4,
+                    "endColumn": 0,
                     "type": "Deletion",
                     "isValidated": true
                 }
@@ -490,6 +750,30 @@
             "id": "1017dd20-161e-42f7-9940-47558619b98c",
             "file": "front/src/app/types/articleKeyWord.type.ts",
             "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "contentAnalysis": true
+        },
+        {
+            "id": "07896f4b-3f7b-48a3-9e88-8f657aef9454",
+            "file": "back/src/main/java/com/gl/ibuysu/repositories/ArticleCategoryRepository.java",
+            "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "contentAnalysis": true
+        },
+        {
+            "id": "ec43562c-24c9-41db-9f77-8f516121e388",
+            "file": "back/src/main/java/com/gl/ibuysu/models/ArticleCategory.java",
+            "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "contentAnalysis": true
+        },
+        {
+            "id": "e51e2fce-b5b8-45cb-8269-f1a1d7261987",
+            "file": "front/src/app/types/articleCategory.type.ts",
+            "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
             "analyzer": "File system analyzer",
             "isValidated": true,
             "contentAnalysis": true

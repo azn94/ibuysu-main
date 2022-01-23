@@ -152,6 +152,19 @@
                             "isFromMarker": true,
                             "parent": "-1",
                             "children": []
+                        },
+                        {
+                            "propagationId": "2ad1915b-f274-481b-b9c6-11475e43bbe1",
+                            "sourceId": "2ad1915b-f274-481b-b9c6-11475e43bbe1",
+                            "startLine": 30,
+                            "startColumn": 0,
+                            "endLine": 35,
+                            "endColumn": 13,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
                         }
                     ]
                 },
@@ -379,6 +392,154 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "ranges": [
+                        {
+                            "propagationId": "78634451-6a90-40a2-a7bd-b86326784d13",
+                            "sourceId": "95925ca1-5701-4f1a-979b-ad615fca4d7d",
+                            "startLine": 96,
+                            "startColumn": 38,
+                            "endLine": 96,
+                            "endColumn": 62,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "448df381-2c08-4b24-9b25-acfb6841efa4",
+                            "sourceId": "c036c36e-afc6-435e-8b52-ffcb11842b22",
+                            "startLine": 7,
+                            "startColumn": 7,
+                            "endLine": 7,
+                            "endColumn": 59,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "5fb15ce8-5de4-47b2-994d-8112bf6aeea8",
+                            "sourceId": "1ae3b760-c492-4028-a198-3cc713dbfe63",
+                            "startLine": 40,
+                            "startColumn": 13,
+                            "endLine": 40,
+                            "endColumn": 28,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "5667a0b1-fceb-4d75-9a4c-54152fd615af",
+                            "sourceId": "1ae3b760-c492-4028-a198-3cc713dbfe63",
+                            "startLine": 63,
+                            "startColumn": 13,
+                            "endLine": 63,
+                            "endColumn": 28,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "67100ee8-5484-4b57-a528-7c13e780adc8",
+                            "sourceId": "39cffe39-6d0e-43fd-bbd7-449da1ec7449",
+                            "startLine": 40,
+                            "startColumn": 51,
+                            "endLine": 40,
+                            "endColumn": 66,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "8edde0f3-c2f3-4cad-80d5-a353109249fb",
+                            "sourceId": "39cffe39-6d0e-43fd-bbd7-449da1ec7449",
+                            "startLine": 63,
+                            "startColumn": 58,
+                            "endLine": 63,
+                            "endColumn": 73,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "9d8b2b1e-c5b6-474b-b4f1-4eaf7d84ec0f",
+                            "sourceId": "9d8b2b1e-c5b6-474b-b4f1-4eaf7d84ec0f",
+                            "startLine": 7,
+                            "startColumn": 0,
+                            "endLine": 7,
+                            "endColumn": 60,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "61f89b46-cd5a-4aca-afb3-c845d61b5f0c",
+                            "sourceId": "61f89b46-cd5a-4aca-afb3-c845d61b5f0c",
+                            "startLine": 40,
+                            "startColumn": 0,
+                            "endLine": 43,
+                            "endColumn": 9,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "63bebfb7-2dd3-4a3e-b9b5-7630138069c1",
+                            "sourceId": "63bebfb7-2dd3-4a3e-b9b5-7630138069c1",
+                            "startLine": 63,
+                            "startColumn": 0,
+                            "endLine": 66,
+                            "endColumn": 9,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "bfe3d0b1-72ce-477a-b9b8-9ddeffe83a03",
+                            "sourceId": "bfe3d0b1-72ce-477a-b9b8-9ddeffe83a03",
+                            "startLine": 94,
+                            "startColumn": 0,
+                            "endLine": 97,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "75aa6d39-b0cb-4533-9c69-4cf35ef16eff",
+                            "sourceId": "75aa6d39-b0cb-4533-9c69-4cf35ef16eff",
+                            "startLine": 25,
+                            "startColumn": 0,
+                            "endLine": 26,
+                            "endColumn": 64,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -395,6 +556,24 @@
                             "startColumn": 0,
                             "endLine": 13,
                             "endColumn": 52,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "ranges": [
+                        {
+                            "propagationId": "95925ca1-5701-4f1a-979b-ad615fca4d7d",
+                            "sourceId": "95925ca1-5701-4f1a-979b-ad615fca4d7d",
+                            "startLine": 9,
+                            "startColumn": 0,
+                            "endLine": 10,
+                            "endColumn": 54,
                             "isValidated": true,
                             "analyzer": "Interoperable analyzer",
                             "isFromMarker": true,
@@ -575,6 +754,76 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "ranges": [
+                        {
+                            "propagationId": "164056d7-224d-4df0-94a9-d520f9ff02c3",
+                            "sourceId": "1ae3b760-c492-4028-a198-3cc713dbfe63",
+                            "startLine": 40,
+                            "startColumn": 17,
+                            "endLine": 40,
+                            "endColumn": 32,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "32ea8fbc-5f9e-45f7-9088-b458f68329c5",
+                            "sourceId": "1ae3b760-c492-4028-a198-3cc713dbfe63",
+                            "startLine": 124,
+                            "startColumn": 12,
+                            "endLine": 124,
+                            "endColumn": 27,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "b69797e2-eee4-41fb-8eee-e67177abf217",
+                            "sourceId": "1ae3b760-c492-4028-a198-3cc713dbfe63",
+                            "startLine": 128,
+                            "startColumn": 31,
+                            "endLine": 128,
+                            "endColumn": 46,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "39cffe39-6d0e-43fd-bbd7-449da1ec7449",
+                            "sourceId": "39cffe39-6d0e-43fd-bbd7-449da1ec7449",
+                            "startLine": 124,
+                            "startColumn": 0,
+                            "endLine": 130,
+                            "endColumn": 1,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "bcd12e22-c28a-44e1-94f2-c6dbfa577b83",
+                            "sourceId": "bcd12e22-c28a-44e1-94f2-c6dbfa577b83",
+                            "startLine": 33,
+                            "startColumn": 0,
+                            "endLine": 40,
+                            "endColumn": 66,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -590,6 +839,24 @@
                             "startLine": 38,
                             "startColumn": 0,
                             "endLine": 41,
+                            "endColumn": 14,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "ranges": [
+                        {
+                            "propagationId": "a0d7f584-410a-48d6-afb9-a2aa2981ba78",
+                            "sourceId": "a0d7f584-410a-48d6-afb9-a2aa2981ba78",
+                            "startLine": 33,
+                            "startColumn": 0,
+                            "endLine": 36,
                             "endColumn": 14,
                             "isValidated": true,
                             "analyzer": "Interoperable analyzer",
@@ -699,6 +966,102 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "ranges": [
+                        {
+                            "propagationId": "923bf84c-cdef-49b9-ad01-139cc23562ea",
+                            "sourceId": "05bebc66-756b-423c-b110-49511c146e4f",
+                            "startLine": 4,
+                            "startColumn": 8,
+                            "endLine": 4,
+                            "endColumn": 27,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "f5f19854-8df0-4b72-beba-dd3be9ee4bd6",
+                            "sourceId": "05bebc66-756b-423c-b110-49511c146e4f",
+                            "startLine": 63,
+                            "startColumn": 24,
+                            "endLine": 63,
+                            "endColumn": 43,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "22cb7f36-69f8-4bef-8942-d23da76f8eab",
+                            "sourceId": "05bebc66-756b-423c-b110-49511c146e4f",
+                            "startLine": 65,
+                            "startColumn": 53,
+                            "endLine": 65,
+                            "endColumn": 57,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "b8183a6e-ad44-414b-a0f0-6015e3df51f6",
+                            "sourceId": "b8183a6e-ad44-414b-a0f0-6015e3df51f6",
+                            "startLine": 76,
+                            "startColumn": 0,
+                            "endLine": 76,
+                            "endColumn": 19,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "9483e2c0-a1d4-4856-80d5-051ce2d58cd3",
+                            "sourceId": "9483e2c0-a1d4-4856-80d5-051ce2d58cd3",
+                            "startLine": 63,
+                            "startColumn": 0,
+                            "endLine": 65,
+                            "endColumn": 65,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "482b260f-948a-4e2e-a9aa-1856de0e4af3",
+                            "sourceId": "482b260f-948a-4e2e-a9aa-1856de0e4af3",
+                            "startLine": 40,
+                            "startColumn": 0,
+                            "endLine": 40,
+                            "endColumn": 38,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "a4e7cb14-4933-4cea-befa-66eec285a8b1",
+                            "sourceId": "a4e7cb14-4933-4cea-befa-66eec285a8b1",
+                            "startLine": 4,
+                            "startColumn": 0,
+                            "endLine": 4,
+                            "endColumn": 69,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -722,6 +1085,37 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "ranges": [
+                        {
+                            "propagationId": "8e56ea92-7b13-4155-86f7-b1843b06c3e8",
+                            "sourceId": "78a2c7f5-df25-49ce-ab09-4fbca11d3de9",
+                            "startLine": 103,
+                            "startColumn": 58,
+                            "endLine": 103,
+                            "endColumn": 79,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "f036406d-3cd5-4f07-bb20-7e3f4d510a2f",
+                            "sourceId": "f036406d-3cd5-4f07-bb20-7e3f4d510a2f",
+                            "startLine": 101,
+                            "startColumn": 8,
+                            "endLine": 109,
+                            "endColumn": 7,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -737,6 +1131,24 @@
                             "startLine": 33,
                             "startColumn": 0,
                             "endLine": 35,
+                            "endColumn": 3,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "ranges": [
+                        {
+                            "propagationId": "78a2c7f5-df25-49ce-ab09-4fbca11d3de9",
+                            "sourceId": "78a2c7f5-df25-49ce-ab09-4fbca11d3de9",
+                            "startLine": 29,
+                            "startColumn": 0,
+                            "endLine": 31,
                             "endColumn": 3,
                             "isValidated": true,
                             "analyzer": "Interoperable analyzer",
@@ -817,6 +1229,63 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "ranges": [
+                        {
+                            "propagationId": "c814d924-7caa-47dc-bc56-66a3d4a74d6e",
+                            "sourceId": "05bebc66-756b-423c-b110-49511c146e4f",
+                            "startLine": 0,
+                            "startColumn": 8,
+                            "endLine": 0,
+                            "endColumn": 27,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "b3b8efff-536f-4706-b5bc-4e8cdaed7a48",
+                            "sourceId": "05bebc66-756b-423c-b110-49511c146e4f",
+                            "startLine": 11,
+                            "startColumn": 14,
+                            "endLine": 11,
+                            "endColumn": 33,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "dcf6ea1d-d791-492b-b2c3-24573235bd61",
+                            "sourceId": "dcf6ea1d-d791-492b-b2c3-24573235bd61",
+                            "startLine": 11,
+                            "startColumn": 0,
+                            "endLine": 11,
+                            "endColumn": 36,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "5478066f-50cc-410f-a15a-b57dd03b9957",
+                            "sourceId": "5478066f-50cc-410f-a15a-b57dd03b9957",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 0,
+                            "endColumn": 59,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -872,6 +1341,158 @@
                             "startColumn": 0,
                             "endLine": 4,
                             "endColumn": 57,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "ranges": [
+                        {
+                            "propagationId": "4ba6cf85-0ba6-4b2b-9622-6f878531bb91",
+                            "sourceId": "05bebc66-756b-423c-b110-49511c146e4f",
+                            "startLine": 3,
+                            "startColumn": 8,
+                            "endLine": 3,
+                            "endColumn": 27,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "11ee4540-4bff-4250-b62d-3fe3452b3255",
+                            "sourceId": "05bebc66-756b-423c-b110-49511c146e4f",
+                            "startLine": 13,
+                            "startColumn": 14,
+                            "endLine": 13,
+                            "endColumn": 33,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "98f61eed-b1e5-4ec1-a754-9b383e946f0f",
+                            "sourceId": "98f61eed-b1e5-4ec1-a754-9b383e946f0f",
+                            "startLine": 13,
+                            "startColumn": 0,
+                            "endLine": 13,
+                            "endColumn": 36,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "031acca8-b621-400e-a044-cdea0b5f7224",
+                            "sourceId": "031acca8-b621-400e-a044-cdea0b5f7224",
+                            "startLine": 3,
+                            "startColumn": 0,
+                            "endLine": 3,
+                            "endColumn": 59,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "back/src/main/java/com/gl/ibuysu/repositories/ArticleCategoryRepository.java",
+            "propagations": [
+                {
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "ranges": [
+                        {
+                            "propagationId": "c036c36e-afc6-435e-8b52-ffcb11842b22",
+                            "sourceId": "c036c36e-afc6-435e-8b52-ffcb11842b22",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 9,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "65c1aef5-4d36-435f-82d2-60cdc1af97a2",
+                            "sourceId": "1ae3b760-c492-4028-a198-3cc713dbfe63",
+                            "startLine": 2,
+                            "startColumn": 7,
+                            "endLine": 2,
+                            "endColumn": 43,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "b24e4bcc-56be-4240-b10c-3c6b107a8899",
+                            "sourceId": "1ae3b760-c492-4028-a198-3cc713dbfe63",
+                            "startLine": 7,
+                            "startColumn": 65,
+                            "endLine": 7,
+                            "endColumn": 80,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": false,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "back/src/main/java/com/gl/ibuysu/models/ArticleCategory.java",
+            "propagations": [
+                {
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "ranges": [
+                        {
+                            "propagationId": "1ae3b760-c492-4028-a198-3cc713dbfe63",
+                            "sourceId": "1ae3b760-c492-4028-a198-3cc713dbfe63",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 46,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "front/src/app/types/articleCategory.type.ts",
+            "propagations": [
+                {
+                    "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+                    "ranges": [
+                        {
+                            "propagationId": "05bebc66-756b-423c-b110-49511c146e4f",
+                            "sourceId": "05bebc66-756b-423c-b110-49511c146e4f",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 4,
+                            "endColumn": 0,
                             "isValidated": true,
                             "analyzer": "Interoperable analyzer",
                             "isFromMarker": true,
@@ -953,6 +1574,36 @@
             "sourceId": "1017dd20-161e-42f7-9940-47558619b98c",
             "propagatedPath": "front/src/app/types/articleKeyWord.type.ts",
             "featureKey": "2e36025a-0777-4a4c-a501-10cc7552e180",
+            "isValidated": true,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true,
+            "contentAnalysis": true
+        },
+        {
+            "propagationId": "07896f4b-3f7b-48a3-9e88-8f657aef9454",
+            "sourceId": "07896f4b-3f7b-48a3-9e88-8f657aef9454",
+            "propagatedPath": "back/src/main/java/com/gl/ibuysu/repositories/ArticleCategoryRepository.java",
+            "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+            "isValidated": true,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true,
+            "contentAnalysis": true
+        },
+        {
+            "propagationId": "ec43562c-24c9-41db-9f77-8f516121e388",
+            "sourceId": "ec43562c-24c9-41db-9f77-8f516121e388",
+            "propagatedPath": "back/src/main/java/com/gl/ibuysu/models/ArticleCategory.java",
+            "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+            "isValidated": true,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true,
+            "contentAnalysis": true
+        },
+        {
+            "propagationId": "e51e2fce-b5b8-45cb-8269-f1a1d7261987",
+            "sourceId": "e51e2fce-b5b8-45cb-8269-f1a1d7261987",
+            "propagatedPath": "front/src/app/types/articleCategory.type.ts",
+            "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
             "isValidated": true,
             "analyzer": "File system analyzer",
             "isFromMarker": true,
