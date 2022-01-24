@@ -16,7 +16,7 @@ export class SignupComponent implements OnInit, OnDestroy {
   public registerPurchaserForm!: FormGroup;
 
   public choice: string = "seller";
-  public creditCardIsSelected = true;
+  public creditCardIsSelected : boolean  = true;
 
   public registerSubscription!: Subscription;
   public selectCreditCardOrBankCodeSubscription: Subscription | undefined;

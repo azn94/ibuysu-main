@@ -108,6 +108,28 @@
                     "isValidated": true
                 },
                 {
+                    "id": "ec7dbaa9-aaaf-456a-a0d9-631160441bd5",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 24,
+                    "startColumn": 1,
+                    "endLine": 24,
+                    "endColumn": 156,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "9b418bc6-3643-44b0-837c-61bcfe39d412",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 27,
+                    "startColumn": 0,
+                    "endLine": 27,
+                    "endColumn": 183,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "2ad1915b-f274-481b-b9c6-11475e43bbe1",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
@@ -126,6 +148,28 @@
                     "startColumn": 0,
                     "endLine": 41,
                     "endColumn": 13,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "2e241a58-f421-44be-b915-cbe8f75e5691",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 46,
+                    "startColumn": 0,
+                    "endLine": 49,
+                    "endColumn": 16,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "db934667-19d5-45a7-aafa-c77d9d347346",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 61,
+                    "startColumn": 189,
+                    "endLine": 61,
+                    "endColumn": 288,
                     "type": "Deletion",
                     "isValidated": true
                 }
@@ -161,6 +205,17 @@
         {
             "file": "back/src/main/java/com/gl/ibuysu/controllers/ArticleController.java",
             "seeds": [
+                {
+                    "id": "34063fae-a3c1-4846-a23d-001102077266",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 5,
+                    "startColumn": 0,
+                    "endLine": 6,
+                    "endColumn": 59,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
                 {
                     "id": "9d8b2b1e-c5b6-474b-b4f1-4eaf7d84ec0f",
                     "analyzer": "Interoperable analyzer",
@@ -206,6 +261,17 @@
                     "isValidated": true
                 },
                 {
+                    "id": "18731f40-68c2-4fdd-8e8c-d5426c91b101",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 31,
+                    "startColumn": 0,
+                    "endLine": 32,
+                    "endColumn": 62,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "61f89b46-cd5a-4aca-afb3-c845d61b5f0c",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
@@ -224,6 +290,28 @@
                     "startColumn": 0,
                     "endLine": 47,
                     "endColumn": 9,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "37b978c3-77f1-43fb-8cd3-e147906bcb83",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 52,
+                    "startColumn": 0,
+                    "endLine": 62,
+                    "endColumn": 9,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "05c19558-bbb1-488f-91a7-4e955fbe7f64",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 52,
+                    "startColumn": 0,
+                    "endLine": 77,
+                    "endColumn": 5,
                     "type": "Deletion",
                     "isValidated": true
                 },
@@ -267,6 +355,17 @@
                     "startLine": 99,
                     "startColumn": 0,
                     "endLine": 102,
+                    "endColumn": 5,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "5e031f98-832a-48a5-9ff5-0b54c80b7264",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 146,
+                    "startColumn": 0,
+                    "endLine": 162,
                     "endColumn": 5,
                     "type": "Deletion",
                     "isValidated": true
@@ -548,6 +647,61 @@
             "file": "front/src/app/components/articles/articles.component.ts",
             "seeds": [
                 {
+                    "id": "a89b0fc7-39be-4709-a539-50f969a5e414",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 8,
+                    "startColumn": 0,
+                    "endLine": 8,
+                    "endColumn": 69,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "4e127100-3301-4ae7-a95a-0ee70b748d06",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 30,
+                    "startColumn": 35,
+                    "endLine": 30,
+                    "endColumn": 58,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "68843bd1-6494-41d0-ac41-ad13c5e6e262",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 31,
+                    "startColumn": 43,
+                    "endLine": 31,
+                    "endColumn": 66,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "05f65524-7504-4659-a92a-13ad14bf5cf2",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 32,
+                    "startColumn": 57,
+                    "endLine": 32,
+                    "endColumn": 80,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "f81419fa-dd08-4d8a-adb7-1fa6e66fe598",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 66,
+                    "startColumn": 35,
+                    "endLine": 66,
+                    "endColumn": 57,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "f036406d-3cd5-4f07-bb20-7e3f4d510a2f",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
@@ -568,12 +722,89 @@
                     "endColumn": 7,
                     "type": "Deletion",
                     "isValidated": true
+                },
+                {
+                    "id": "0fbaaed3-895a-4dbb-a94c-5a43e006fee8",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 129,
+                    "startColumn": 0,
+                    "endLine": 132,
+                    "endColumn": 3,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "f892699e-ac59-4d94-bd53-b3b2ff01f2fb",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 134,
+                    "startColumn": 46,
+                    "endLine": 134,
+                    "endColumn": 66,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "92f39f25-8bdd-4d19-a930-06dc6c2511e1",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 152,
+                    "startColumn": 0,
+                    "endLine": 158,
+                    "endColumn": 3,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "bfc1ffcb-e213-4cb2-b542-a91ea4bebf08",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 164,
+                    "startColumn": 0,
+                    "endLine": 166,
+                    "endColumn": 3,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "7f1d3d0a-f109-4eb3-b2e0-dd58f05b5945",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 168,
+                    "startColumn": 0,
+                    "endLine": 171,
+                    "endColumn": 3,
+                    "type": "Deletion",
+                    "isValidated": true
                 }
             ]
         },
         {
             "file": "front/src/app/services/article/article.service.ts",
             "seeds": [
+                {
+                    "id": "4c7fab72-b456-41f9-89ab-931e9617cc77",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 5,
+                    "startColumn": 0,
+                    "endLine": 5,
+                    "endColumn": 67,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "2f5fd230-80fb-486d-9537-a533e23a6e69",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 14,
+                    "startColumn": 73,
+                    "endLine": 14,
+                    "endColumn": 93,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
                 {
                     "id": "78a2c7f5-df25-49ce-ab09-4fbca11d3de9",
                     "analyzer": "Interoperable analyzer",
@@ -592,6 +823,17 @@
                     "startLine": 33,
                     "startColumn": 0,
                     "endLine": 35,
+                    "endColumn": 3,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "6d6037d5-3f2c-4afc-81f9-6932f1bebf4d",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 40,
+                    "startColumn": 0,
+                    "endLine": 43,
                     "endColumn": 3,
                     "type": "Deletion",
                     "isValidated": true
@@ -617,6 +859,17 @@
         {
             "file": "front/src/app/types/articleAuction.type.ts",
             "seeds": [
+                {
+                    "id": "5119530f-fa3b-4ae4-bb17-1b6d901d5251",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 24,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
                 {
                     "id": "031acca8-b621-400e-a044-cdea0b5f7224",
                     "analyzer": "Interoperable analyzer",
@@ -727,6 +980,140 @@
                     "isValidated": true
                 }
             ]
+        },
+        {
+            "file": "back/src/main/java/com/gl/ibuysu/repositories/ArticleAuctionRepository.java",
+            "seeds": [
+                {
+                    "id": "1f59741f-9d1c-4a03-89d5-8dc3da6c53e3",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 9,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "back/src/main/java/com/gl/ibuysu/models/Auction.java",
+            "seeds": [
+                {
+                    "id": "84680553-a824-4313-a14a-888814d7b8c8",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 45,
+                    "endColumn": 1,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "back/src/main/java/com/gl/ibuysu/models/ArticleAuction.java",
+            "seeds": [
+                {
+                    "id": "8825038e-738c-47e7-bf9f-a636119958cb",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 42,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "back/src/main/java/com/gl/ibuysu/models/Purchaser.java",
+            "seeds": [
+                {
+                    "id": "28345f66-597d-4c58-b777-0bb98e41c967",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 17,
+                    "startColumn": 0,
+                    "endLine": 18,
+                    "endColumn": 56,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "front/src/app/types/purchaser.type.ts",
+            "seeds": [
+                {
+                    "id": "2d0da042-5517-471c-a5ae-9979ee9dce1a",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 2,
+                    "startColumn": 0,
+                    "endLine": 2,
+                    "endColumn": 43,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "0ef41fb6-c8c1-4bbc-ad6a-0466637d306a",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 5,
+                    "startColumn": 26,
+                    "endLine": 6,
+                    "endColumn": 26,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "front/src/app/types/auction.type.ts",
+            "seeds": [
+                {
+                    "id": "01aa7053-ddfb-44e8-9cc4-b33b38400da2",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 8,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "front/src/app/components/evaluate/evaluate.component.ts",
+            "seeds": [
+                {
+                    "id": "73a8f3c4-109f-471e-8b4f-7b2c14accfcc",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 3,
+                    "startColumn": 0,
+                    "endLine": 3,
+                    "endColumn": 69,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "61b81316-a14d-4347-98c0-7231b3c7dda6",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 15,
+                    "startColumn": 31,
+                    "endLine": 15,
+                    "endColumn": 51,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
         }
     ],
     "fileSeeds": [
@@ -774,6 +1161,46 @@
             "id": "e51e2fce-b5b8-45cb-8269-f1a1d7261987",
             "file": "front/src/app/types/articleCategory.type.ts",
             "featureKey": "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "contentAnalysis": true
+        },
+        {
+            "id": "00026137-0f1e-4d5a-9921-2dd2cb5bc7fe",
+            "file": "back/src/main/java/com/gl/ibuysu/models/Auction.java",
+            "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "contentAnalysis": true
+        },
+        {
+            "id": "6b76d630-93b7-4da5-9ced-5054f4eaa4d1",
+            "file": "back/src/main/java/com/gl/ibuysu/models/ArticleAuction.java",
+            "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "contentAnalysis": true
+        },
+        {
+            "id": "7258248b-c351-414f-bd23-fd8539acb712",
+            "file": "front/src/app/types/auction.type.ts",
+            "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "contentAnalysis": true
+        },
+        {
+            "id": "7c13df65-82ee-4c77-8b5f-fc1aabc09b55",
+            "file": "front/src/app/types/articleAuction.type.ts",
+            "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "contentAnalysis": true
+        },
+        {
+            "id": "d4990ebc-2753-4eff-ac32-2cb49365a940",
+            "file": "back/src/main/java/com/gl/ibuysu/repositories/ArticleAuctionRepository.java",
+            "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
             "analyzer": "File system analyzer",
             "isValidated": true,
             "contentAnalysis": true
