@@ -31,8 +31,8 @@
             "name": "CB",
             "type": "Functionality feature",
             "parent": "94c1832e-27fc-415a-9461-2a833b876c79",
-            "parentRelation": "Normal",
-            "presence": "Optional",
+            "parentRelation": "Or",
+            "presence": "Normal",
             "lgFile": "",
             "role": "",
             "hexColor": "#ed37d5",
@@ -44,8 +44,8 @@
             "name": "RIB",
             "type": "Functionality feature",
             "parent": "94c1832e-27fc-415a-9461-2a833b876c79",
-            "parentRelation": "Normal",
-            "presence": "Optional",
+            "parentRelation": "Or",
+            "presence": "Normal",
             "lgFile": "",
             "role": "",
             "hexColor": "#d2cde2",
@@ -58,7 +58,7 @@
             "type": "Functionality feature",
             "parent": "774691f1-edc0-4b8c-b5ba-9ac05edce3ea",
             "parentRelation": "Normal",
-            "presence": "Optional",
+            "presence": "Mandatory",
             "lgFile": "",
             "role": "",
             "hexColor": "#9dc9c2",
@@ -70,8 +70,8 @@
             "name": "Direct",
             "type": "Functionality feature",
             "parent": "6d8fc825-bcfc-4673-96cd-6b49c2f4eef5",
-            "parentRelation": "Normal",
-            "presence": "Optional",
+            "parentRelation": "Or",
+            "presence": "Normal",
             "lgFile": "",
             "role": "",
             "hexColor": "#c3ef6d",
@@ -83,8 +83,8 @@
             "name": "Auctions",
             "type": "Functionality feature",
             "parent": "6d8fc825-bcfc-4673-96cd-6b49c2f4eef5",
-            "parentRelation": "Normal",
-            "presence": "Optional",
+            "parentRelation": "Or",
+            "presence": "Normal",
             "lgFile": "",
             "role": "",
             "hexColor": "#367a0e",
@@ -135,8 +135,8 @@
             "name": "All",
             "type": "Functionality feature",
             "parent": "6d8fc825-bcfc-4673-96cd-6b49c2f4eef5",
-            "parentRelation": "Normal",
-            "presence": "Optional",
+            "parentRelation": "Or",
+            "presence": "Normal",
             "lgFile": "",
             "role": "",
             "hexColor": "#2942ae",
@@ -192,5 +192,24 @@
         }
     ],
     "referencedModels": [],
-    "constraints": []
+    "constraints": [
+        {
+            "type": "⇔",
+            "left": {
+                "type": "∧",
+                "left": {
+                    "type": "feature",
+                    "featureKey": "45750f19-7e99-4cfd-a998-51ef5b65d230"
+                },
+                "right": {
+                    "type": "feature",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553"
+                }
+            },
+            "right": {
+                "type": "feature",
+                "featureKey": "0258dd3d-16cb-4726-a91b-c3a0af5a1b04"
+            }
+        }
+    ]
 }
