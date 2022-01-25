@@ -8,26 +8,30 @@
         "2a3b99a3-dbb9-490d-8230-dbe79405a55d",
         "6d8fc825-bcfc-4673-96cd-6b49c2f4eef5",
         "45750f19-7e99-4cfd-a998-51ef5b65d230",
+        "ea2cc1f1-3930-4044-8b2e-409271cca553",
+        "5d68eac5-b987-4bf3-98b5-2cc1553a952e",
+        "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+        "2e36025a-0777-4a4c-a501-10cc7552e180",
         "0258dd3d-16cb-4726-a91b-c3a0af5a1b04"
     ],
     "fileResourceConfiguration": [
         {
             "key": "9581c3aa-a05c-4915-bbae-08da629af722",
             "value": "front/src/assets",
-            "fileName": "logo_ebay.png"
+            "fileName": "ibuysu.png"
         }
     ],
     "textResourceConfiguration": [
         {
             "key": "8301aabc-61f3-49a8-87d3-2fb78e788af8",
-            "value": "TEST TEST"
+            "value": "TEST"
         }
     ],
     "assetResourceConfiguration": [],
     "colorResourceConfiguration": [
         {
             "key": "308b0a6d-b69d-4b05-a4d3-57158ed21bed",
-            "value": "#4fe708"
+            "value": "#f90606"
         }
     ]
 }
