@@ -94,7 +94,7 @@ public class ArticleController {
 
     @GetMapping("/articles-by-categories/{category}")
     public Iterable<Article> getArticlesByCategory(@PathVariable("category") final String category) {
-        return this.articleRepository.findByCategory(category);findByCategory(category)
+        return this.articleRepository.findByCategory(category);
     }
 
     @GetMapping("/articles-by-keywords/{keyword}")
@@ -183,3 +183,4 @@ public class ArticleController {
     }
 
 }
+eezezezeez

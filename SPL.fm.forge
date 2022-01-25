@@ -192,5 +192,24 @@
         }
     ],
     "referencedModels": [],
-    "constraints": []
+    "constraints": [
+        {
+            "type": "∧",
+            "left": {
+                "type": "feature",
+                "featureKey": "45750f19-7e99-4cfd-a998-51ef5b65d230"
+            },
+            "right": {
+                "type": "⇒",
+                "left": {
+                    "type": "feature",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553"
+                },
+                "right": {
+                    "type": "feature",
+                    "featureKey": "0258dd3d-16cb-4726-a91b-c3a0af5a1b04"
+                }
+            }
+        }
+    ]
 }

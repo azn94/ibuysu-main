@@ -190,6 +190,17 @@
             "file": "front/src/app/components/signup/signup.component.ts",
             "seeds": [
                 {
+                    "id": "721155cc-0e54-469d-bfad-d31aa41c0534",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2da1d9f3-679b-4006-8a9f-5e40945e3816",
+                    "startLine": 40,
+                    "startColumn": 0,
+                    "endLine": 42,
+                    "endColumn": 40,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "7caf5852-f545-4e80-9dfc-b9803b912dc7",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "2da1d9f3-679b-4006-8a9f-5e40945e3816",
@@ -649,6 +660,17 @@
                     "startColumn": 0,
                     "endLine": 41,
                     "endColumn": 36,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "03838a83-7c79-4cf4-a28f-f5db468196c6",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+                    "startLine": 41,
+                    "startColumn": 35,
+                    "endLine": 42,
+                    "endColumn": 35,
                     "type": "Deletion",
                     "isValidated": true
                 },
@@ -1328,6 +1350,81 @@
                     "isValidated": true
                 }
             ]
+        },
+        {
+            "file": "back/src/main/java/com/gl/ibuysu/models/Seller.java",
+            "seeds": [
+                {
+                    "id": "3e685e17-2400-4fc3-b71b-8c0ef9e0d7b7",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2da1d9f3-679b-4006-8a9f-5e40945e3816",
+                    "startLine": 18,
+                    "startColumn": 0,
+                    "endLine": 20,
+                    "endColumn": 34,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "back/src/main/java/com/gl/ibuysu/models/CreditCard.java",
+            "seeds": [
+                {
+                    "id": "4faed317-4932-4fad-aee7-f09cbb45e47b",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2da1d9f3-679b-4006-8a9f-5e40945e3816",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 56,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "front/src/app/types/seller.type.ts",
+            "seeds": [
+                {
+                    "id": "c34156d9-919c-4afb-9942-23d3c880b671",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2da1d9f3-679b-4006-8a9f-5e40945e3816",
+                    "startLine": 1,
+                    "startColumn": 0,
+                    "endLine": 1,
+                    "endColumn": 49,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "6ff8ee97-2ee3-4365-9c25-00a8597f61b6",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2da1d9f3-679b-4006-8a9f-5e40945e3816",
+                    "startLine": 6,
+                    "startColumn": 0,
+                    "endLine": 6,
+                    "endColumn": 30,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "front/src/app/types/creditCard.type.ts",
+            "seeds": [
+                {
+                    "id": "f05c9773-0daf-4a07-b6f5-8b50853e50e3",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2da1d9f3-679b-4006-8a9f-5e40945e3816",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 6,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
         }
     ],
     "fileSeeds": [
@@ -1415,6 +1512,22 @@
             "id": "d4990ebc-2753-4eff-ac32-2cb49365a940",
             "file": "back/src/main/java/com/gl/ibuysu/repositories/ArticleAuctionRepository.java",
             "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "contentAnalysis": true
+        },
+        {
+            "id": "c5f29cb4-6e34-4ce3-bec1-097a5e2c373d",
+            "file": "back/src/main/java/com/gl/ibuysu/models/CreditCard.java",
+            "featureKey": "2da1d9f3-679b-4006-8a9f-5e40945e3816",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "contentAnalysis": true
+        },
+        {
+            "id": "e338001e-973f-4ee7-8ede-9c854216c2fd",
+            "file": "front/src/app/types/creditCard.type.ts",
+            "featureKey": "2da1d9f3-679b-4006-8a9f-5e40945e3816",
             "analyzer": "File system analyzer",
             "isValidated": true,
             "contentAnalysis": true
