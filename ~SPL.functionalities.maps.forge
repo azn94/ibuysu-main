@@ -1346,17 +1346,6 @@
                     "isValidated": true
                 },
                 {
-                    "id": "87b7afb5-128d-498f-b277-353debae2c23",
-                    "analyzer": "Interoperable analyzer",
-                    "featureKey": "45750f19-7e99-4cfd-a998-51ef5b65d230",
-                    "startLine": 5,
-                    "startColumn": 2,
-                    "endLine": 5,
-                    "endColumn": 27,
-                    "type": "Deletion",
-                    "isValidated": true
-                },
-                {
                     "id": "0ef41fb6-c8c1-4bbc-ad6a-0466637d306a",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "ea2cc1f1-3930-4044-8b2e-409271cca553",
@@ -1414,19 +1403,7 @@
         },
         {
             "file": "front/src/app/components/profile/profile.component.html",
-            "seeds": [
-                {
-                    "id": "81f4357c-52cc-42c9-806f-8db4888a814f",
-                    "analyzer": "Interoperable analyzer",
-                    "featureKey": "45750f19-7e99-4cfd-a998-51ef5b65d230",
-                    "startLine": 9,
-                    "startColumn": 0,
-                    "endLine": 10,
-                    "endColumn": 66,
-                    "type": "Deletion",
-                    "isValidated": true
-                }
-            ]
+            "seeds": []
         },
         {
             "file": "back/src/main/java/com/gl/ibuysu/models/Seller.java",

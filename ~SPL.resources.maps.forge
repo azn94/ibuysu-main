@@ -42,6 +42,17 @@
                     "isValidated": true
                 },
                 {
+                    "id": "879523fb-390d-44ce-a346-9a42938bf839",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "308b0a6d-b69d-4b05-a4d3-57158ed21bed",
+                    "startLine": 99,
+                    "startColumn": 21,
+                    "endLine": 100,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
                     "id": "124b6ff9-19ec-436b-8f3b-99ea2f570c86",
                     "analyzer": "Resource Analyzer",
                     "featureKey": "308b0a6d-b69d-4b05-a4d3-57158ed21bed",
@@ -49,6 +60,50 @@
                     "startColumn": 15,
                     "endLine": 100,
                     "endColumn": 22,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "7f0a7a34-089d-4ceb-ac98-124a4612de75",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "308b0a6d-b69d-4b05-a4d3-57158ed21bed",
+                    "startLine": 100,
+                    "startColumn": 18,
+                    "endLine": 102,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "51575596-0aeb-4686-a378-84c9cb44700d",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "308b0a6d-b69d-4b05-a4d3-57158ed21bed",
+                    "startLine": 105,
+                    "startColumn": 9,
+                    "endLine": 105,
+                    "endColumn": 16,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "ba32221d-be11-4635-b7be-e3e2adbe8043",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "308b0a6d-b69d-4b05-a4d3-57158ed21bed",
+                    "startLine": 106,
+                    "startColumn": 16,
+                    "endLine": 106,
+                    "endColumn": 23,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "ec29693b-84c6-4e75-b729-48d78da6e7c6",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "308b0a6d-b69d-4b05-a4d3-57158ed21bed",
+                    "startLine": 106,
+                    "startColumn": 16,
+                    "endLine": 106,
+                    "endColumn": 24,
                     "type": "Deletion",
                     "isValidated": true
                 }

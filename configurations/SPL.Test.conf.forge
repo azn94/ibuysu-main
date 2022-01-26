@@ -1,0 +1,35 @@
+{
+    "isAbsolutePath": false,
+    "resourcesPath": "resources/files",
+    "functionalityConfiguration": [
+        "774691f1-edc0-4b8c-b5ba-9ac05edce3ea",
+        "94c1832e-27fc-415a-9461-2a833b876c79",
+        "2da1d9f3-679b-4006-8a9f-5e40945e3816",
+        "6d8fc825-bcfc-4673-96cd-6b49c2f4eef5",
+        "45750f19-7e99-4cfd-a998-51ef5b65d230",
+        "ea2cc1f1-3930-4044-8b2e-409271cca553",
+        "5d68eac5-b987-4bf3-98b5-2cc1553a952e",
+        "2b7ee8d5-2c11-4214-a690-a69e27ae8f51",
+        "0258dd3d-16cb-4726-a91b-c3a0af5a1b04"
+    ],
+    "fileResourceConfiguration": [
+        {
+            "key": "9581c3aa-a05c-4915-bbae-08da629af722",
+            "value": "front/src/assets",
+            "fileName": "logo_leboncoin.jpg"
+        }
+    ],
+    "textResourceConfiguration": [
+        {
+            "key": "8301aabc-61f3-49a8-87d3-2fb78e788af8",
+            "value": "Avec leboncoin, trouvez la bonne affaire, réalisez-la bonne vente pour votre voiture, immobilier, emploi, location de vacances, vêtements, mode, maison, ..."
+        }
+    ],
+    "assetResourceConfiguration": [],
+    "colorResourceConfiguration": [
+        {
+            "key": "308b0a6d-b69d-4b05-a4d3-57158ed21bed",
+            "value": "#ffa200"
+        }
+    ]
+}

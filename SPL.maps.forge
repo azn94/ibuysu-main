@@ -3130,26 +3130,6 @@
                             "children": []
                         }
                     ]
-                },
-                {
-                    "featureKey": "45750f19-7e99-4cfd-a998-51ef5b65d230",
-                    "ranges": [
-                        {
-                            "propagationId": "87b7afb5-128d-498f-b277-353debae2c23",
-                            "sourceId": "87b7afb5-128d-498f-b277-353debae2c23",
-                            "startLine": 5,
-                            "startColumn": 2,
-                            "endLine": 5,
-                            "endColumn": 27,
-                            "isValidated": true,
-                            "analyzer": "Interoperable analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": [
-                                "f53d1573-e826-4381-a427-788379c17951"
-                            ]
-                        }
-                    ]
                 }
             ]
         },
@@ -3277,29 +3257,6 @@
                             "startColumn": 0,
                             "endLine": 9,
                             "endColumn": 0,
-                            "isValidated": true,
-                            "analyzer": "Interoperable analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "file": "front/src/app/components/profile/profile.component.html",
-            "propagations": [
-                {
-                    "featureKey": "45750f19-7e99-4cfd-a998-51ef5b65d230",
-                    "ranges": [
-                        {
-                            "propagationId": "81f4357c-52cc-42c9-806f-8db4888a814f",
-                            "sourceId": "81f4357c-52cc-42c9-806f-8db4888a814f",
-                            "startLine": 9,
-                            "startColumn": 0,
-                            "endLine": 10,
-                            "endColumn": 66,
                             "isValidated": true,
                             "analyzer": "Interoperable analyzer",
                             "isFromMarker": true,
@@ -3658,6 +3615,32 @@
                             "startColumn": 15,
                             "endLine": 100,
                             "endColumn": 22,
+                            "isValidated": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "51575596-0aeb-4686-a378-84c9cb44700d",
+                            "sourceId": "51575596-0aeb-4686-a378-84c9cb44700d",
+                            "startLine": 105,
+                            "startColumn": 9,
+                            "endLine": 105,
+                            "endColumn": 16,
+                            "isValidated": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "ec29693b-84c6-4e75-b729-48d78da6e7c6",
+                            "sourceId": "ec29693b-84c6-4e75-b729-48d78da6e7c6",
+                            "startLine": 106,
+                            "startColumn": 16,
+                            "endLine": 106,
+                            "endColumn": 24,
                             "isValidated": true,
                             "analyzer": "Resource Analyzer",
                             "isFromMarker": true,

@@ -95,9 +95,14 @@
   border-top: .5px solid #dee2e6;
 }
 
-.btn-check:active + .btn-outline-primary, .btn-check:checked + .btn-outline-primary, .btn-outline-primary.active, .btn-outline-primary.dropdown-toggle.show, .btn-outline-primary:active{
+.btn-check:active + .btn-outline-primary, .btn-check:checked + .btn-outline-primary, .btn-outline-primary.active, .btn-outline-primary.dropdown-toggle.show, .btn-outline-primary:hover{
   color: #fff;
   background-color:#3919ae;
   border-color:#3919ae;
 
+}
+
+.btn-outline-primary {
+  color: #9844a0;
+  border-color: #9844a1 ;
 }
